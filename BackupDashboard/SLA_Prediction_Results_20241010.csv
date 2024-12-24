@@ -1,0 +1,15 @@
+Metric,Value
+Predicted Current Month SLA (XGBoost),99.73%
+Current Month SLA,99.58%
+Days Processed in Current Month,2
+Days Remaining in Current Month,29
+Required SLA for Remaining Days (to meet 99.0% target),98.96%
+Best XGBoost Parameters,"{'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 200, 'subsample': 1.0}"
+Important Feature #6,Success_Rate (importance: 0.5999)
+Important Feature #7,Partial_Rate (importance: 0.3894)
+Important Feature #5,Total_Jobs (importance: 0.0056)
+Worst Performing Client #1,"orobua02.otis.com (SLA: 0.00%, Total Jobs: 11.0, Success Rate: 0.00)"
+Worst Performing Client #2,"ofrard04.otis.com (SLA: 43.10%, Total Jobs: 19.0, Success Rate: 0.43)"
+Worst Performing Client #3,"ofrgna1k (SLA: 57.54%, Total Jobs: 70.0, Success Rate: 0.58)"
+Worst Performing Client #4,"ofrgna1d.otis.com (SLA: 67.01%, Total Jobs: 53.0, Success Rate: 0.67)"
+Worst Performing Client #5,"ofrark09.otis.com (SLA: 76.76%, Total Jobs: 169.0, Success Rate: 0.76)"

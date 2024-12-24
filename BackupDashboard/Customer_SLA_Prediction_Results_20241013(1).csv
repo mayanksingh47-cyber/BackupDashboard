@@ -1,0 +1,17 @@
+Metric,Value
+Predicted Current Month SLA,93.77%
+Current Month SLA,93.82%
+Days Processed in Current Month,8
+Days Remaining in Current Month,23
+Required SLA for Remaining Days (to meet 99.0% target),100.80%
+Best XGBoost Parameters,"{'colsample_bytree': 1.0, 'learning_rate': 0.1, 'max_depth': 7, 'n_estimators': 200, 'subsample': 0.8}"
+Important Feature #7,Partial_Rate (importance: 0.5150)
+Important Feature #6,Success_Rate (importance: 0.4849)
+Important Feature #5,Total_Jobs (importance: 0.0000)
+Important Feature #2,month (importance: 0.0000)
+Important Feature #1,day (importance: 0.0000)
+Worst Performing Client #1,"cb3764369.adt4.cibc1.tst (SLA: 0.00%, Total Jobs: 1.0, Success Rate: 0.00)"
+Worst Performing Client #2,"dxrh7scdnt02p.mpcwest.cloud1.cibc.com (SLA: 0.00%, Total Jobs: 1.0, Success Rate: 0.00)"
+Worst Performing Client #3,"cb1773875.mpceast.cloud1.cibc.com (SLA: 0.00%, Total Jobs: 1.0, Success Rate: 0.00)"
+Worst Performing Client #4,"cb1447029.testfi.tst (SLA: 0.00%, Total Jobs: 6.0, Success Rate: 0.00)"
+Worst Performing Client #5,"cb2813444 (SLA: 0.00%, Total Jobs: 11.0, Success Rate: 0.00)"

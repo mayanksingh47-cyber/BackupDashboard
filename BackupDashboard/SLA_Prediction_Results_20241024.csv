@@ -1,0 +1,15 @@
+Metric,Value
+Predicted Current Month SLA (XGBoost),99.67%
+Current Month SLA,99.60%
+Days Processed in Current Month,23
+Days Remaining in Current Month,8
+Required SLA for Remaining Days (to meet 99.0% target),97.26%
+Best XGBoost Parameters,"{'colsample_bytree': 1.0, 'learning_rate': 0.3, 'max_depth': 3, 'n_estimators': 200, 'subsample': 1.0}"
+Important Feature #6,Success_Rate (importance: 0.6020)
+Important Feature #7,Partial_Rate (importance: 0.3956)
+Important Feature #5,Total_Jobs (importance: 0.0022)
+Worst Performing Client #1,"ukitwxubworaa01 (SLA: 0.00%, Total Jobs: 2.0, Success Rate: 0.00)"
+Worst Performing Client #2,"ukitwxudwvdd601 (SLA: 0.00%, Total Jobs: 2.0, Success Rate: 0.00)"
+Worst Performing Client #3,"ukitwxubwvd001 (SLA: 0.00%, Total Jobs: 1.0, Success Rate: 0.00)"
+Worst Performing Client #4,"ukimdlmawcvdp53 (SLA: 0.00%, Total Jobs: 1.0, Success Rate: 0.00)"
+Worst Performing Client #5,"ukimdlmawcvdp54 (SLA: 0.00%, Total Jobs: 1.0, Success Rate: 0.00)"
