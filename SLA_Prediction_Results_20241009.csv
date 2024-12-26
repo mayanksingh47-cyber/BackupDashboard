@@ -1,0 +1,15 @@
+Metric,Value
+Predicted Current Month SLA (XGBoost),97.57%
+Current Month SLA,96.76%
+Days Processed in Current Month,8
+Days Remaining in Current Month,23
+Required SLA for Remaining Days (to meet 99.0% target),99.78%
+Best XGBoost Parameters,"{'colsample_bytree': 1.0, 'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 200, 'subsample': 1.0}"
+Important Feature #7,Partial_Rate (importance: 0.6605)
+Important Feature #6,Success_Rate (importance: 0.3393)
+Important Feature #3,day_of_week (importance: 0.0001)
+Worst Performing Client #1,"igrdssndc002 (SLA: 0.00%, Total Jobs: 1.0, Success Rate: 0.00)"
+Worst Performing Client #2,"Hpuxmgmt-bu01 (SLA: 5.87%, Total Jobs: 118.0, Success Rate: 0.06)"
+Worst Performing Client #3,"ccpvlndct307.ad.corp.global (SLA: 33.33%, Total Jobs: 6.0, Success Rate: 0.33)"
+Worst Performing Client #4,"igrscmndc001.ad.corp.global (SLA: 43.13%, Total Jobs: 90.0, Success Rate: 0.43)"
+Worst Performing Client #5,"IGRSCMNDC001.AD.CORP.GLOBAL (SLA: 50.61%, Total Jobs: 188.0, Success Rate: 0.51)"
