@@ -1,0 +1,1 @@
+streamlit run part2.10.py
