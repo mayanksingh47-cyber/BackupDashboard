@@ -6,3 +6,4 @@ xgboost
 datetime
 plotly
 Pillow
+openpyxl
